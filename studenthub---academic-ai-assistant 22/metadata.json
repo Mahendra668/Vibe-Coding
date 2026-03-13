@@ -1,0 +1,5 @@
+{
+  "name": "StudentHub - Academic AI Assistant",
+  "description": "A comprehensive student productivity platform featuring AI-powered study tools, key rotation for Gemini, and fallback to Groq.",
+  "requestFramePermissions": []
+}
